@@ -17,6 +17,6 @@ THEN I find a concise, descriptive title
  into semantic elements such as nav and section. i changed the classes on each section and streamlined the code by reducing redunant lines in the css file.
 
 
-![horiseon screenshot](../../../Downloads/Horiseon.png)
-
- https://eveningstar777.github.io/module1challenge/
+![Horiseon screenshot](Horiseon.png)
+ 
+  https://eveningstar777.github.io/module1challenge/
